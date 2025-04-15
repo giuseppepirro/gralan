@@ -1,2 +1,2 @@
-# gralan
-Code for: The Graph Language
+# The Graph Language
+Large Language Models (LLMs) excel at reasoning but benefit from grounding provided by Knowledge Graphs (KGs), although integrating these two knowledge representation paradigms is challenging. We introduce GraLan (The Graph Language), which enables KGs to "speak" directly in the LLM's semantic space through relational tokens-learned representations that preserve the KG structure and semantics. GraLan uses a trainable graph language mediator to generate relational tokens that are fed into a frozen LLM for diverse downstream tasks. We tested GraLan in a question-answering scenario, where we reframe it as entity classification over the nodes of a question-focused subgraph. Experiments demonstrate that GraLan outperforms existing methods.
