@@ -123,15 +123,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built on PyTorch and Transformers library
-- Evaluated on standard KG-QA benchmarks including Wikidata and ConceptNet
-- Research conducted at Sapienza University of Rome, Department of Computer Science
-- Giuseppe Pirro is an expert in Semantic Web, Knowledge Graphs, and Graph Databases
-- Code for: "The Graph Language: Enabling Knowledge Graphs to Speak in LLM's Semantic Space"
-
 ---
 
 **📧 Contact**: Giuseppe Pirro (giuseppe.pirro@uniroma1.it)  
